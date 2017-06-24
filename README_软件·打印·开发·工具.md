@@ -7,7 +7,7 @@ speedtest-cli   命令行下测试服务器外网速度
 clockdiff       检测两台linux主机的时间差
 ntpdate         使用网络计时协议（NTP）设置日期和时间
 dnf             新一代的RPM软件包管理器
-ldconfig        动态链接库管理命令
+ldconfig [README_文件目录管理](media/README_%E6%96%87%E4%BB%B6%E7%9B%AE%E5%BD%95%E7%AE%A1%E7%90%86.md)       动态链接库管理命令
 rsync           远程数据同步工具
 vdfuse          VirtualBox软件挂载VDI分区文件工具
 readelf         用于显示elf格式文件的信息
